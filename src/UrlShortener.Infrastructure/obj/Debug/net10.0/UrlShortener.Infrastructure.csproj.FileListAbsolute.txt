@@ -1,0 +1,17 @@
+D:\Projects\UrlShortener\src\UrlShortener.Infrastructure\bin\Debug\net10.0\UrlShortener.Infrastructure.deps.json
+D:\Projects\UrlShortener\src\UrlShortener.Infrastructure\bin\Debug\net10.0\UrlShortener.Infrastructure.dll
+D:\Projects\UrlShortener\src\UrlShortener.Infrastructure\bin\Debug\net10.0\UrlShortener.Infrastructure.pdb
+D:\Projects\UrlShortener\src\UrlShortener.Infrastructure\bin\Debug\net10.0\UrlShortener.Application.dll
+D:\Projects\UrlShortener\src\UrlShortener.Infrastructure\bin\Debug\net10.0\UrlShortener.Domain.dll
+D:\Projects\UrlShortener\src\UrlShortener.Infrastructure\bin\Debug\net10.0\UrlShortener.Application.pdb
+D:\Projects\UrlShortener\src\UrlShortener.Infrastructure\bin\Debug\net10.0\UrlShortener.Domain.pdb
+D:\Projects\UrlShortener\src\UrlShortener.Infrastructure\obj\Debug\net10.0\UrlShortener.Infrastructure.csproj.AssemblyReference.cache
+D:\Projects\UrlShortener\src\UrlShortener.Infrastructure\obj\Debug\net10.0\UrlShortener.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\UrlShortener\src\UrlShortener.Infrastructure\obj\Debug\net10.0\UrlShortener.Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\UrlShortener\src\UrlShortener.Infrastructure\obj\Debug\net10.0\UrlShortener.Infrastructure.AssemblyInfo.cs
+D:\Projects\UrlShortener\src\UrlShortener.Infrastructure\obj\Debug\net10.0\UrlShortener.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\UrlShortener\src\UrlShortener.Infrastructure\obj\Debug\net10.0\UrlShort.41F6DB00.Up2Date
+D:\Projects\UrlShortener\src\UrlShortener.Infrastructure\obj\Debug\net10.0\UrlShortener.Infrastructure.dll
+D:\Projects\UrlShortener\src\UrlShortener.Infrastructure\obj\Debug\net10.0\refint\UrlShortener.Infrastructure.dll
+D:\Projects\UrlShortener\src\UrlShortener.Infrastructure\obj\Debug\net10.0\UrlShortener.Infrastructure.pdb
+D:\Projects\UrlShortener\src\UrlShortener.Infrastructure\obj\Debug\net10.0\ref\UrlShortener.Infrastructure.dll
