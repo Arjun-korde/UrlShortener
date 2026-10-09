@@ -20,6 +20,8 @@ public class ShortUrl
 
     public bool IsActive { get; set; }
 
+    public string ShortCodeNormalized { get; set; } = null!;
+
     public User? OwnerUser { get; set; }
 
     public ICollection<UrlClick> Clicks { get; set; } = [];

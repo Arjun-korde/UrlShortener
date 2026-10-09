@@ -32,6 +32,13 @@ public class ShortUrlConfiguration : IEntityTypeConfiguration<ShortUrl>
         builder.Property(x => x.CreatedAt)
             .IsRequired();
 
+        builder.Property(x => x.ShortCodeNormalized)
+            .HasMaxLength(50)
+            .IsRequired();
+
+        builder.HasIndex(x => x.ShortCodeNormalized)
+            .IsUnique();
+
         builder.Property(x => x.UpdatedAt);
 
         builder.Property(x => x.ExpiresAt)
